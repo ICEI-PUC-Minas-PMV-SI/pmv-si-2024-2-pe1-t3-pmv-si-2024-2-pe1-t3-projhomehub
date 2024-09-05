@@ -39,11 +39,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Prioridade | 
-|------|-----------------------------------------|----| 
-|RF-001| A aplicação deve permitir que o usuário gerencie suas tarefas | ALTA |  
-|RF-002| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | MÉDIA | 
-
+|ID    | Descrição do Requisito  | Exemplo | Prioridade | 
+|------|-----------------------------------------|----|----|
+|RF-01|GERENCIAMENTO DE USUARIOS| A aplicação deve permitir que o usuário gerencie suas tarefas | CRIAÇÃO DE USUÁRIO E SENHA |  ALTA |
+|RF-02| ACOMPANHAMENTO DE TAREFAS| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | BOARD COM INDICATIVOS MOSTRANDO O QUE FOI FINALIZADO NA TAREFA |  ALTA |
+|RF-03| CENTRALIZAÇÃO DA COMUNICAÇÃO| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | CHAT INTEGRADO COM TODA A EQUIPE|  ALTA |
+|RF-04| GESTÃO DE PROJETOS| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | PÁGINA DEDICADA A CRIAÇÃO DE PROJETOS COM DESCRIÇÃO E FUNÇÕES|  ALTA |
+|RF-04.1| ATRIBUIÇÃO DE TAREFAS| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | HUD INTEGRADO COM AS TAREFAS E OS USUÁRIOS|  ALTA |
+|RF-04.2| RELATÓRIOS DE PROJETOS| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   |HUD INTEGRADO COM A EQUIPE PARA RELATÓRIOS DIARIOS/SEMANAIS OU MENSAIS| MÉDIA | 
+|RF-05| NOTIFICAÇÕES AUTOMATICAS| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   |POP-UPS SOBRE MODIFICAÇÕES OU ALERTAS DE TAREFAS|  MÉDIA |
+|RF-06| FEEDBACKS| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | ESPAÇO PARA A CRIAÇÃO, VISUALIZAÇÃO E INTERAÇÃO COM FEEDBACKS DIRETOS OU PARTICIONADOS A EQUIPES|  ALTA |
+|RF-07| INTEGRABILIDADE| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | INTEGRAÇÃO COM FERAMENTAS OFFICE|  MÉDIA |
 
 ### Requisitos não Funcionais
 
