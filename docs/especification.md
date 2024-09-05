@@ -82,6 +82,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| Não pode ser desenvolvido um módulo de backend        |
 |03| Os artefatos do projeto não podem ser produzidos a partir de geradores de código |
+|04| Devem ser utilizadas linguagens WEB pro projeto |
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
