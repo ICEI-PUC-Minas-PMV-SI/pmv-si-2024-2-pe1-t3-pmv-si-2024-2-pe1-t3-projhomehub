@@ -86,7 +86,7 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |05| Os artefatos do projeto não podem ser produzidos a partir de geradores de código |
 |06| Todas atividade devem possuir escopos, para que seja visualizado oque será incluído na atividade. |
 |07| Toda atualização feita deve ser incrementada onde esta o acompanhamento do projeto. Exemplo: KANBAN |
-
+|07| Todo recurso que for pensado pro projeto devera se consultado antes a opinião da equipe. |
 
 
 
