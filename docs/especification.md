@@ -80,9 +80,16 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |ID| Restrição                                             |
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
-|02| Não pode ser desenvolvido um módulo de backend        |
-|03| Os artefatos do projeto não podem ser produzidos a partir de geradores de código |
-|04| Devem ser utilizadas linguagens WEB pro projeto |
+|02| O projeto deverá ser etapas por semana, com reuniões todas Quintas=Feiras |
+|03| Devem ser utilizadas linguagens WEB pro projeto |
+|04| O projeto deve apresentar linguagem Bootstrap |
+|05| Os artefatos do projeto não podem ser produzidos a partir de geradores de código |
+|06| Todas atividade devem possuir escopos, para que seja visualizado oque será incluído na atividade. |
+|07| Toda atualização feita deve ser incrementada onde esta o acompanhamento do projeto. Exemplo: KANBAN |
+
+
+
+
 
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
