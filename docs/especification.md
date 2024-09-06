@@ -8,7 +8,8 @@ Caso deseje atribuir uma imagem a sua persona, utilize o site https://thisperson
 
 ## Diagrama de Persona
 
-*Mariana: Líder de equipe*
+## Mariana: Líder de equipe
+
 Mariana é uma gerente de projetos de 32 anos com uma sólida experiência em liderança. Ela acumula 5 anos de experiência em gestão de equipe, dos quais 2 anos foram dedicados especificamente à gestão de equipes híbridas.
 
 Objetivos:
@@ -20,7 +21,8 @@ Seus principais desafios incluem gerenciar a comunicação entre membros remotos
 Necessidades:
 Para superar seus desafios, Mariana necessita de ferramentas que permitam monitorar o desempenho da equipe e facilitem a comunicação e a gestão de tarefas.
 
-*Luiz: Colaborador Híbrido*
+## Luiz: Colaborador Híbrido
+
 Luiz é um desenvolvedor de software de 27 anos, representando o perfil do colaborador que trabalha em um modelo híbrido. Ele possui 4 anos de experiência como desenvolvedor, sendo o último ano em ambientes híbridos.
 
 Objetivos:
