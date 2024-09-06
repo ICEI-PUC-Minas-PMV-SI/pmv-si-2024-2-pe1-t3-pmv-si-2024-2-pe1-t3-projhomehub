@@ -6,11 +6,31 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Caso deseje atribuir uma imagem a sua persona, utilize o site https://thispersondoesnotexist.com/
 
-## Personas
+## Diagrama de Persona
 
-Fiz o diagrama de personas com base em nosso projeto, qualquer dúvida estou á disposição. 
+*Mariana: Líder de equipe*
+Mariana é uma gerente de projetos de 32 anos com uma sólida experiência em liderança. Ela acumula 5 anos de experiência em gestão de equipe, dos quais 2 anos foram dedicados especificamente à gestão de equipes híbridas.
 
-[Diagrama de personas.pdf](https://github.com/user-attachments/files/16880450/Diagrama.de.personas.pdf)
+Objetivos:
+Mariana busca implementar estratégias para melhorar o desempenho individual e coletivo de sua equipe.
+
+Desafios:
+Seus principais desafios incluem gerenciar a comunicação entre membros remotos e presenciais, além de manter o engajamento da equipe.
+
+Necessidades:
+Para superar seus desafios, Mariana necessita de ferramentas que permitam monitorar o desempenho da equipe e facilitem a comunicação e a gestão de tarefas.
+
+*Luiz: Colaborador Híbrido*
+Luiz é um desenvolvedor de software de 27 anos, representando o perfil do colaborador que trabalha em um modelo híbrido. Ele possui 4 anos de experiência como desenvolvedor, sendo o último ano em ambientes híbridos.
+
+Objetivos:
+Luiz está focado em melhorar suas habilidades profissionais e realizar suas tarefas de forma eficiente.
+
+Desafios:
+Os principais desafios de Luiz incluem gerenciar seu tempo de trabalho e sentir-se parte integrante da equipe, mesmo trabalhando remotamente em parte do tempo.
+
+Necessidades:
+Para enfrentar seus desafios, Luiz necessita de sistemas eficientes para gerenciamento de tarefas e ferramentas que promovam uma comunicação eficaz com a equipe.
 
 ## Histórias de Usuários
 
