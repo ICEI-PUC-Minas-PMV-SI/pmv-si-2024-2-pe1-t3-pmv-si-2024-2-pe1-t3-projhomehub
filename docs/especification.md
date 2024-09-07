@@ -61,17 +61,17 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 ### Requisitos Funcionais
 
-|ID    | Descrição do Requisito  | Exemplo | Prioridade | 
-|------|-----------------------------------------|----|----|
-|RF-01|GERENCIAMENTO DE USUARIOS| A aplicação deve permitir que o usuário gerencie suas tarefas | CRIAÇÃO DE USUÁRIO E SENHA |  ALTA |
-|RF-02| ACOMPANHAMENTO DE TAREFAS| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | BOARD COM INDICATIVOS MOSTRANDO O QUE FOI FINALIZADO NA TAREFA |  ALTA |
-|RF-03| CENTRALIZAÇÃO DA COMUNICAÇÃO| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | CHAT INTEGRADO COM TODA A EQUIPE|  ALTA |
-|RF-04| GESTÃO DE PROJETOS| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | PÁGINA DEDICADA A CRIAÇÃO DE PROJETOS COM DESCRIÇÃO E FUNÇÕES|  ALTA |
-|RF-04.1| ATRIBUIÇÃO DE TAREFAS| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | HUD INTEGRADO COM AS TAREFAS E OS USUÁRIOS|  ALTA |
-|RF-04.2| RELATÓRIOS DE PROJETOS| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   |HUD INTEGRADO COM A EQUIPE PARA RELATÓRIOS DIARIOS/SEMANAIS OU MENSAIS| MÉDIA | 
-|RF-05| NOTIFICAÇÕES AUTOMATICAS| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   |POP-UPS SOBRE MODIFICAÇÕES OU ALERTAS DE TAREFAS|  MÉDIA |
-|RF-06| FEEDBACKS| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | ESPAÇO PARA A CRIAÇÃO, VISUALIZAÇÃO E INTERAÇÃO COM FEEDBACKS DIRETOS OU PARTICIONADOS A EQUIPES|  ALTA |
-|RF-07| INTEGRABILIDADE| A aplicação deve permitir a emissão de um relatório de tarefas realizadas no mês   | INTEGRAÇÃO COM FERAMENTAS OFFICE|  MÉDIA |
+|ID    | Descrição do Requisito  | Prioridade | 
+|------|-----------------------------------------|----|
+|RF-001| A APLICAÇÃO DEVE PERMITIR O USUÁRIO CRIAR, EXCLUIR, ATRIBUIR CARGOS A USUÁRIOS |  ALTA |
+|RF-002| A APLICAÇÃO DEVE PERMITIR O ACOMPANHAMENTO DO DESENVOLVIMENTO DAS TRAREFAS  |  ALTA |
+|RF-003| A APLICAÇÃO DEVE PERMITIR A ORGANIZAÇÃO E CAPACITAÇÃO DA EQUIPE PARA UMA INTEGRAÇÃO ENTRE USUÁRIOS |  ALTA |
+|RF-004| A APLICAÇÃO DEVE PERMITIR A CRIAÇÃO E ALTERAÇÃO DE PROJETOS |  ALTA |
+|RF-005| A APLICAÇÃO DEVE PERMITIR A CAPACIDADE DE DELEGAR TAREFAS E FUNÇÕES A USUÁRIOS DEFINIDOS |  ALTA |
+|RF-006| A APLICAÇÃO DEVE PERMITIR CRIAR E COMENTAR RELATÓRIOS RELACIONADOS DIRETAMENTE AOS PROJETOS | MÉDIA | 
+|RF-007| A APLICAÇÃO DEVE PERMITIR A NOTIFICAÇÃO DOS USUÁRIOS  | MÉDIA |
+|RF-008| A APLICAÇÃO DEVE PERMITIR O DIRECIONAMENTO DE FEEDBACKS DIRETOS OU INDIRETOS PARA TAREFAS E/OU USUÁRIOS  |  ALTA |
+|RF-009| A APLICAÇÃO DEVE OPERAR DIRETAMENTE COM OUTROS SISTEMAS E PLATAFORMAS | MÉDIA |
 
 ### Requisitos não Funcionais
 
