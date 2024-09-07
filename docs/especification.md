@@ -63,22 +63,24 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade | 
 |------|-----------------------------------------|----|
-|RF-001| A APLICAÇÃO DEVE PERMITIR O USUÁRIO CRIAR, EXCLUIR, ATRIBUIR CARGOS A USUÁRIOS |  ALTA |
-|RF-002| A APLICAÇÃO DEVE PERMITIR O ACOMPANHAMENTO DO DESENVOLVIMENTO DAS TRAREFAS  |  ALTA |
-|RF-003| A APLICAÇÃO DEVE PERMITIR A ORGANIZAÇÃO E CAPACITAÇÃO DA EQUIPE PARA UMA INTEGRAÇÃO ENTRE USUÁRIOS |  ALTA |
-|RF-004| A APLICAÇÃO DEVE PERMITIR A CRIAÇÃO E ALTERAÇÃO DE PROJETOS |  ALTA |
-|RF-005| A APLICAÇÃO DEVE PERMITIR A CAPACIDADE DE DELEGAR TAREFAS E FUNÇÕES A USUÁRIOS DEFINIDOS |  ALTA |
-|RF-006| A APLICAÇÃO DEVE PERMITIR CRIAR E COMENTAR RELATÓRIOS RELACIONADOS DIRETAMENTE AOS PROJETOS | MÉDIA | 
-|RF-007| A APLICAÇÃO DEVE PERMITIR A NOTIFICAÇÃO DOS USUÁRIOS  | MÉDIA |
-|RF-008| A APLICAÇÃO DEVE PERMITIR O DIRECIONAMENTO DE FEEDBACKS DIRETOS OU INDIRETOS PARA TAREFAS E/OU USUÁRIOS  |  ALTA |
-|RF-009| A APLICAÇÃO DEVE OPERAR DIRETAMENTE COM OUTROS SISTEMAS E PLATAFORMAS | MÉDIA |
+|RF-001| A aplicação deve permitir o usuário administrador criar, excluir, alterar e atribuir cargos a usuários |  Alta |
+|RF-002| A aplicação deve permitir ao usuário gestor ou líder acompanhar o desenvolvimento das trarefas |  Alta |
+|RF-003| A aplicação deve permitir que o gestor cadastre skills a serem desenvolvidas por membros individuais da equipe |  Alta |
+|RF-004| A aplicação deve permitir ao usuário líder ou gestor a criação, atualização e exclusão de projetos |  Alta |
+|RF-005| A aplicação deve permitir ao usuário líder ou gestor delegar tarefas e funções a usuários individuais |  Alta |
+|RF-006| A aplicação deve permitir a criação de relatórios diversos relacionados aos projetos, como status do andamento, estatísticas de participação individual e de percentual de conclusão etc | Média | 
+|RF-007| A aplicação deve permitir a notificação diversas dos usuários, incluindo prazos, comentários de outros usuários colaboradores e feedbacks recebidos do usuário líder ou gestor | Média |
+|RF-008| A aplicação deve permitir ao usuário líder ou gestor o registro de feedbacks relacionados a tarefas e/ou usuários colaboradores individuais |  Alta |
 
 ### Requisitos não Funcionais
 
 |ID     | Descrição do Requisito  |Prioridade |
 |-------|-------------------------|----|
 |RNF-001| A aplicação deve ter uma interface responsiva que funcione corretamente em diferentes dispositivos e tamanhos de  tela. | ALTA | 
-|RNF-002| A aplicação deve ser capaz de detectar e bloquear automaticamente qualquer atividade suspeito.  |  ALTA | 
+|RNF-002| A aplicação deve ser capaz de detectar e bloquear automaticamente qualquer atividade suspeito.  |  ALTA |
+|RNF-003| A aplicação deve ser desenvolvida respeitando as boas práticas estabelecidas pela W3C | Alta |
+|RNF-004| A aplicação deve ser testada e ajustada para que funcione adequadamente com os principais leitores de tela para pessoas cegas ou com baixa visão | Alta |
+|RNF-005| A aplicação deve possuir uma interface pensada para atender a pessoas com limitações motoras |  Média |
 
 Com base nas Histórias de Usuário, enumere os requisitos da sua solução. Classifique esses requisitos em dois grupos:
 
@@ -103,16 +105,10 @@ O projeto está restrito pelos itens apresentados na tabela a seguir.
 |--|-------------------------------------------------------|
 |01| O projeto deverá ser entregue até o final do semestre |
 |02| O projeto deverá ser etapas por semana, com reuniões todas Quintas=Feiras |
-|03| Devem ser utilizadas linguagens WEB pro projeto |
-|04| O projeto deve apresentar linguagem Bootstrap |
+|03| O projeto deve ser desenvolvidos usando unicamente HTML, CSS e JavaScript |
+|04| O projeto deve fazer uso do framework CSS Bootstrap 5 para padronização dos elementos |
 |05| Os artefatos do projeto não podem ser produzidos a partir de geradores de código |
-|06| Todas atividade devem possuir escopos, para que seja visualizado oque será incluído na atividade. |
-|07| Toda atualização feita deve ser incrementada onde esta o acompanhamento do projeto. Exemplo: KANBAN |
-|08| Todo recurso que for pensado pro projeto devera se consultado antes a opinião da equipe. |
-
-
-
-
+|06| Todas as funcionadades a serem implementadas precisam ser previamente aprovadas pelo P.O. do projeto |
 
 Enumere as restrições à sua solução. Lembre-se de que as restrições geralmente limitam a solução candidata.
 
