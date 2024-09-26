@@ -3,7 +3,9 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
+A metodologia é projetada na eficiência do desenvolvimento da aplicação web, a fim de garantir que os objetivos do projeto sejam alcançados, dos requisitos do usuário até a implementação e manutenção do sistema.  A integração de ferramentas digitais com práticas ágeis promoverá um espaço de trabalho mais dinâmico e adaptável, essencial para o sucesso do projeto de desenvolvimento do sistema de apoio à gestão de equipes híbridas.
+
+Nesta metodologia, destacamos a importância da colaboração entre diferentes partes interessadas, incluindo desenvolvedores e usuários finais. Para o desenvolvimento do projeto, iremos trabalhar no modelo de framework Scrum. O Scrum é flexível e adaptável, promovendo iterações e feedback contínuo, o que permite que equipes auto-organizadas e multifuncionais trabalhem de forma colaborativa e eficiente.
 
 ## Controle de Versão
 
@@ -48,30 +50,20 @@ Apresente a divisão de papéis entre os membros do grupo.
 
 ### Processo
 
-Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
- 
-> **Links Úteis**:
-> - [Project management, made simple](https://github.com/features/project-management/)
-> - [Sobre quadros de projeto](https://docs.github.com/pt/github/managing-your-work-on-github/about-project-boards)
-> - [Como criar Backlogs no Github](https://www.youtube.com/watch?v=RXEy6CFu9Hk)
-> - [Tutorial Slack](https://slack.com/intl/en-br/)
+O Scrum é uma abordagem ágil para gerenciamento de projetos, estruturada em sprints que geralmente duram entre duas e quatro semanas. Essa metodologia é projetada para promover colaboração, flexibilidade e entrega contínua, permitindo que as equipes se adaptem rapidamente às mudanças e melhorem a qualidade dos produtos.
+
+Para o gerenciamento de tarefas, utilizamos o Trello, que nos proporciona uma forma clara e objetiva de planejar e distribuir as atividades. Organizamos nosso quadro nas colunas: To Do, Doing e Done.
+
+Essa integração do Scrum como metodologia de trabalho com o Trello como ferramenta de gestão possibilitou à equipe manter um foco constante nas entregas, acompanhar o progresso do projeto de forma clara e adaptável, e responder rapidamente a mudanças, assegurando, assim, a qualidade e o sucesso do projeto.
 
 ### Ferramentas
 
 As ferramentas empregadas no projeto são:
 
-- Editor de código.
-- Ferramentas de comunicação
-- Ferramentas de desenho de tela (_wireframing_)
+Visual Studio Code - Editor de código que possui uma integração com o sistema de versão.
 
-O editor de código foi escolhido porque ele possui uma integração com o
-sistema de versão. As ferramentas de comunicação utilizadas possuem
-integração semelhante e por isso foram selecionadas. Por fim, para criar
-diagramas utilizamos essa ferramenta por melhor captar as
-necessidades da nossa solução.
+Microsoft Teams - Ferramentas de comunicação.
 
-Liste quais ferramentas foram empregadas no desenvolvimento do projeto, justificando a escolha delas, sempre que possível.
- 
-> **Possíveis Ferramentas que auxiliarão no gerenciamento**: 
-> - [Slack](https://slack.com/)
-> - [Github](https://github.com/)
+Trello - Ferramenta de gerenciamento de projetos.
+
+Figma - Ferramenta de design que combina a acessibilidade da web com as funcionalidades de um aplicativo. Utilizado para criar diagramas e atender as necessidades da nossa solução.
