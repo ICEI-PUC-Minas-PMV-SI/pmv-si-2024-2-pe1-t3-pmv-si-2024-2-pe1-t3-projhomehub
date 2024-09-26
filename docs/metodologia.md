@@ -1,8 +1,5 @@
 
 # Metodologia
-
-<span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
-
 A metodologia é projetada na eficiência do desenvolvimento da aplicação web, a fim de garantir que os objetivos do projeto sejam alcançados, dos requisitos do usuário até a implementação e manutenção do sistema.  A integração de ferramentas digitais com práticas ágeis promoverá um espaço de trabalho mais dinâmico e adaptável, essencial para o sucesso do projeto de desenvolvimento do sistema de apoio à gestão de equipes híbridas.
 
 Nesta metodologia, destacamos a importância da colaboração entre diferentes partes interessadas, incluindo desenvolvedores e usuários finais. Para o desenvolvimento do projeto, iremos trabalhar no modelo de framework Scrum. O Scrum é flexível e adaptável, promovendo iterações e feedback contínuo, o que permite que equipes auto-organizadas e multifuncionais trabalhem de forma colaborativa e eficiente.
