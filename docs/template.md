@@ -11,7 +11,7 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 ## Cores
 
-https://raw.githubusercontent.com/username/repository/main/filename
+AdobeColor-My Color Theme.jpeg
 
 
 
