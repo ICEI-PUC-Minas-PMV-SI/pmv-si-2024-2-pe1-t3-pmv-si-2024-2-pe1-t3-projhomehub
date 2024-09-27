@@ -10,7 +10,6 @@ O presente projeto visa desenvolver um sistema de apoio à gestão de equipes h�
 
 ## Integrantes
 
-* Mubarak Nunes Machado
 * Eduardo Dias
 * Giulia Gonzaga
 * Victor Gabriel Sena Valadares
