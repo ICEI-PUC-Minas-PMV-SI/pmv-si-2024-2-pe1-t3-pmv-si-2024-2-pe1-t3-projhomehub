@@ -10,7 +10,7 @@ Detalhe os layouts que serão utilizados. Apresente onde será colocado o logo d
 
 
 ## Cores
-![image alt]([image_url](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/main/AdobeColor-My%20Color%20Theme%20(1).jpeg?raw=true))
+![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/528eef5cf213b556a87aeea7aa0278dc57148602/AdobeColor-My%20Color%20Theme%20(1).jpeg)
 
 
 
