@@ -5,7 +5,7 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 Explique as guias de estilo utilizadas no seu projeto.
 
 ## Design
-![image alt](docs/img/fotor-ai-20240916201519 (1).jpg) Detalhe os layouts que serão utilizados. 
+![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/7543093883aff9c06950c88fe23ffc829615b629/docs/img/fotor-ai-20240916201519%20(1).jpg)
 
 
 
