@@ -16,8 +16,8 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 
 ## Tipografia
-
-Apresente as fontes que serão utilizadas e sua função no site. As principais funções são: Título de página, Título de Seção, Rótulos de componentes e Corpo de Texto.
+Fonte principal Roboto
+Fonte de apoio Playfair Display
 
 
 ## Iconografia
