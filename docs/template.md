@@ -15,9 +15,17 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 
 ## Tipografia
+Seleção Tipográfica
+
+tipos de letras abaixo foram escolhidos com atenção para fornecer uma combinação equilibrada de leveza, clara e uma leitura confortável, alinhando-se aos princípios do nosso projeto. Além disso, garantimos compatibilidade com uma ampla variedade de navegadores e plataformas.
+
+Títulos, chamada, destaque, informações prioritárias:
 Sans-serif moderna Roboto ideal para o corpo do texto e a leitura fluida em qualquer dispositivo. Essa tipografia é legível e mantêm a interface leve e profissional.
 
+Descrições, texto contínuo, subtítulo:
 Playfair Display adiciona um ar de sofisticação e estabilidade ao design, realçando informações-chave e transmitindo adição visual.
+
+Escolhermos a fonte arial, para utilizar em pequenos textos em geral, pois é simples e elegante.
 
 
 ## Iconografia
