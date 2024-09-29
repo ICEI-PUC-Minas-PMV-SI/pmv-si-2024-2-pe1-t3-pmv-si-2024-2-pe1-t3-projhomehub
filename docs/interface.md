@@ -8,13 +8,13 @@ Essa técnica funciona para alinhar os caminhos e as possíveis ações que o us
 
 
 ## Wireframes
-1. Tela inicial do aplicativo
+1. Tela de assinatura 
 ![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(1).png)
 2. Tela para realizar o cadastro 
 ![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(2).png)
 3. Fale conosco 
 ![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(3).png)
-4. Tela de depoimentos
+4. Tela inicial 
 ![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(4).png)
 5. Tela de login ( usuários com cadastro na plataforma)
 ![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(5).png)
