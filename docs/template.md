@@ -1,12 +1,15 @@
 # Template padrão do site
 
-Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com a definição de identidade visual, aspectos de responsividade e iconografia.
+Escolhemos uma interface, dinamica e centralizada, para que todas as informações importantes estejam de fácil acesso e que o usuario tenha uma fácil adaptação. 
 
-Explique as guias de estilo utilizadas no seu projeto.
+Layout padrão do site via web:
+
 ![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/5f208c20f386525402ff20fed7b528181feece44/docs/img/Wireframe%20(9).png)
 
 ## Design
-![image alt]([https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/5f208c20f386525402ff20fed7b528181feece44/docs/img/Wireframe%20(9).png](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/22e24be689459e2e17fce2dd3bf2afc728d51017/docs/img/Wireframe%20(10).png))
+Abaixo a explicação do design, apontando os itens principais:
+
+![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/7e4893a065ec94d278972713f5ec4969977c3ad9/docs/img/Wireframe%20(10).png)
 
 
 ## Cores
