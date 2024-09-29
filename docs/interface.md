@@ -8,21 +8,22 @@ Essa técnica funciona para alinhar os caminhos e as possíveis ações que o us
 
 
 ## Wireframes
-
-São protótipos usados em design de interface para sugerir a estrutura de um site web e seu relacionamentos entre suas páginas. Um wireframe web é uma ilustração semelhante do layout de elementos fundamentais na interface e é fundamental sempre relacionar cada wireframe com o(s) requisito(s) que ele atende.
-
-### Exemplo
-
-A tela inicial apresenta um menu lateral com as principais seções do portal, enquanto a navigation bar, ao topo, apresenta informações de envio de imagens ou navegação pela galeria de fotos. A área central apresenta a galeria de fotos na forma de uma grade. Nesta tela, são apresentados os seguintes requisitos
-
-![Exemplo de Wireframe](img/wireframe-example.png)
-
- 
-> **Links Úteis**:
-> - [Protótipos vs Wireframes](https://www.nngroup.com/videos/prototypes-vs-wireframes-ux-projects/)
-> - [Ferramentas de Wireframes](https://rockcontent.com/blog/wireframes/)
-> - [MarvelApp](https://marvelapp.com/developers/documentation/tutorials/)
-> - [Figma](https://www.figma.com/)
-> - [Adobe XD](https://www.adobe.com/br/products/xd.html#scroll)
-> - [Axure](https://www.axure.com/edu) (Licença Educacional)
-> - [InvisionApp](https://www.invisionapp.com/) (Licença Educacional)
+1. Tela inicial do aplicativo
+![image alt]([img/wireframe-example.png](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(1).png)
+2. Tela para realizar o cadastro 
+![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(2).png)
+3. Fale conosco 
+![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(3).png)
+4. Tela de depoimentos
+![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(4).png)
+5. Tela de login ( usuários com cadastro na plataforma)
+![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(5).png)
+6. Troca de mensagens entre os usuários da plataforma
+![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(6).png)
+7. Tela com informações da plataforma 
+![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(7).png)
+8. Tela de tarefas 
+![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(8).png)
+9. Tela geral dos usuários na plataforma
+![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/ac0a9f21d73392de08127a1e1c1939dc7f37851c/docs/img/Wireframe%20(9).png)
+    
