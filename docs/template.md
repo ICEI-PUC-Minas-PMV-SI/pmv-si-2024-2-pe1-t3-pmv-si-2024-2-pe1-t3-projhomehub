@@ -5,8 +5,7 @@ Layout padrão do site (HTML e CSS) que será utilizado em todas as páginas com
 Explique as guias de estilo utilizadas no seu projeto.
 
 ## Design
-![image alt](https://github.com/ICEI-PUC-Minas-PMV-SI/pmv-si-2024-2-pe1-t3-pmv-si-2024-2-pe1-t3-projhomehub/blob/7543093883aff9c06950c88fe23ffc829615b629/docs/img/fotor-ai-20240916201519%20(1).jpg)
-
+![image alt](
 
 
 ## Cores
@@ -16,8 +15,9 @@ Explique as guias de estilo utilizadas no seu projeto.
 
 
 ## Tipografia
-Fonte principal Roboto
-Fonte de apoio Playfair Display
+Sans-serif moderna Roboto ideal para o corpo do texto e a leitura fluida em qualquer dispositivo. Essa tipografia é legível e mantêm a interface leve e profissional.
+
+Playfair Display adiciona um ar de sofisticação e estabilidade ao design, realçando informações-chave e transmitindo adição visual.
 
 
 ## Iconografia
