@@ -1,0 +1,148 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+
+body {
+    font-family: Arial, sans-serif;
+  
+    
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    background-color:#E5EAEF
+}
+
+.logo img {
+    width: 70px
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    background-color:#E5EAEF;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: rgb(8, 8, 8);
+}
+
+.company-name button {
+    background-color: #E5EAEF;
+    color: #000000; 
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    background: color #E5EAEF;;
+    font-weight: 700;
+    border: 1px solid #000000
+}
+
+main {
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    gap: 20px;
+    padding: 20px;
+    background-color: #bec1c4;
+}
+
+.tasks {
+    grid-column: span 2;
+    background-image: url('imgfundo3.png');
+    background-size: cover;
+    padding: 20px;
+    border-radius: 8px;
+    background-color: #E5EAEF;
+    
+    
+}
+
+.tasks h1 {
+    margin-bottom: 20px;
+   
+}
+
+.task-highlight {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    background-color: #edf0f3;
+    background-image: url('imgfundo3.png');
+
+    
+}
+
+.task-item {
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.993);
+    background-color: #28a646;
+    width: 80;
+    
+  
+    
+    
+    
+}
+ 
+.messages, .notifications, .favorites, .progress {
+    background-color: rgb(0, 0, 0);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.993);
+   background-color: #E5EAEF;
+  
+  
+}
+.messages {
+   
+background-color: #E5EAEF;
+font-size: 15px;
+    
+}
+  .notifications {
+    background-color: #E5EAEF;
+    font-size: 18px;
+  }
+
+  .favorites{
+    background-color: #E5EAEF;
+    font-size: 20px;
+
+}
+.progress{
+    background-color: #E5EAEF;
+    font-size: 20px;
+}
+.message-box, .notification-box, .favorite-box, .progress-box {
+    margin-bottom: 20px;
+  
+
+
+}
+
+.progress-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: color #f50303;;
+    border-radius: 8px;
+    height: 100px;
+    font-size: 24px;
+    font-weight: bold;
+    box-shadow: 0px 0px 10px rgba(2, 2, 2, 0.986);
+    width:50;
+    
+
+
+
+}
