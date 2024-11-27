@@ -156,14 +156,32 @@ body {
     padding: 3rem 1rem 2rem;
     text-align: center;
 }
-.texto{
+
+.texto {
     width: 500px;
 }
+
 .Botão {
-  width: 200px;  
-  background-color: #E5EAEF;
-  margin: 25px;
-  padding: 15px;
-  color: #000000;
-  font-weight: 750;
+    display: inline-block; 
+    text-align: center;
+    text-decoration: none; 
+    width: 200px; 
+    padding: 15px; 
+    margin: 25px auto; 
+    border: 2px solid #000; 
+    border-radius: 4px; 
+    background-color: #E5EAEF; 
+    color: #000; 
+    font-weight: bold; 
+    cursor: pointer; 
+    transition: background-color 0.3s; 
+}
+
+.Botão:hover {
+    background-color: #d4d9df; 
+}
+
+
+    
+
 }

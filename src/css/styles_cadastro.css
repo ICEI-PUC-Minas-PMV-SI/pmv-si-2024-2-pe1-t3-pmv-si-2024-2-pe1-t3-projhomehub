@@ -6,11 +6,11 @@
 
 body {
     font-family: Arial, sans-serif;
-    background-color: #f9f9f9;
+    background-color: #42aa5a;
 }
 
 header {
-    background-color: #fff;
+    background-color: #E5EAEF;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     padding: 10px 20px;
     display: flex;
@@ -37,27 +37,143 @@ nav ul li a {
     font-weight: bold;
 }
 
-.auth-buttons {
-    display: flex;
-    gap: 10px;
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
 }
 
-.login-btn, .signup-btn {
+
+header nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* Espaça os itens principais */
     padding: 10px 20px;
-    border: none;
-    cursor: pointer;
+    background-color: #e8edf2;
+    /* Cor de fundo */
+}
+
+
+.logo {
+    max-height: 50px;
+    
+}
+
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
     font-size: 16px;
 }
 
-.login-btn {
-    background-color: #f1f1f1;
-    color: #333;
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
 }
 
-.signup-btn {
-    background-color: #333;
+
+header nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #e8edf2;
+    
+}
+
+
+.logo {
+    max-height: 50px;
+    
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+header nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+    background-color: #e8edf2;
+}
+
+.logo {
+    max-height: 50px;
+}
+
+header nav ul {
+    list-style: none;
+    display: flex;
+    gap: 20px;
+    margin: 0;
+    padding: 0;
+}
+
+header nav ul li a {
+    text-decoration: none;
+    color: #000;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.nav-buttons {
+    display: flex;
+    gap: 10px;
+    margin-left: 920px;
+    margin-right: 10px;
+}
+
+.btn {
+    padding: 8px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.btn.login {
+    background-color: #42aa5a;
+    color: #000;
+
+}
+
+.btn.register {
+    background-color: #000;
     color: #fff;
 }
+
+
+
 
 main {
     display: flex;
@@ -79,18 +195,11 @@ main {
 
 .intro p {
     font-size: 24px;
-    color: #888;
+    color: #000000;
     margin-bottom: 30px;
+    font-weight: bold;
 }
 
-.saiba-mais-btn {
-    padding: 10px 20px;
-    background-color: #333;
-    color: #fff;
-    border: none;
-    cursor: pointer;
-    font-size: 18px;
-}
 
 .cadastro {
     background-color: #fff;
@@ -136,4 +245,23 @@ main {
 
 .checkbox-group input {
     margin-right: 10px;
+}
+
+.Botão {
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+    width: 200px;
+    padding: 15px;
+    margin: 25px auto;
+    border: 2px solid #000;
+    border-radius: 4px;
+    background-color: #42aa5a;
+    color: #000;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.Botão:hover {
+    background-color: #42aa5a;
 }
