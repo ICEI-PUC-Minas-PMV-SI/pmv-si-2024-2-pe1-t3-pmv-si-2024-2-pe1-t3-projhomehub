@@ -37,36 +37,9 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 ## Descrição das estruturas:
 
-## LOGIN ONGS
+## LOGIN HOME HUB
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | E-mail         | Texto             | E-mail para acessar o portal e perfil da HomeHub                        | home.hub@gmail.com                                  |
 | Senha       | Texto             | Senha de acesso à conta da HomeHub                     | 123                           |
-
-
-## CADASTRO HOME HUB
-|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
-|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id             | Numero (Inteiro)  | Identificador único da organizadora da ONG            | 0001                                              |
-| Nome         | Texto             | Nome para acessar o portal e perfil da HomeHub                         | Empresa Silva                                   |
-| CNPJ       | Numero (Inteiro)             | Número de CNPJ da ONG                       | 65948129000167                            |
-| CEP       | Numero (Inteiro)             | Código de Endereçamento Postal (CEP)                       | 30285560                            |
-| Logradouro       | Texto             | Endereço de onde está localizado a ONG                       | Rua Sergipe                            |
-| Camplemento       | Numero (Inteiro)             | Número da rua da ONG                       | 836                            |
-| Bairro       | Texto             | Bairro da ONG                       | Funcionários                            |
-| Cidade       | Texto             | Cidade situada da ONG                       | Belo Horizonte                            |
-| Estado       | Seletor             | Seletor do Estado                       | Minas Gerais                             |
-| E-mail       | Texto             | e-mail da ONG                       | doare@gmail.com                            |
-| Telefone       | Texto             | Número de contado da ONG                       | (31) 983937546                            |
-| Facebook       | Texto             | Facebook da ONG                       | @doare.oficial                            |
-| Instagram       | Texto             | Instagram da ONG                       | @doeaqui                            |
-
-## VERIFICAR
-|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
-|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id             | Numero (Inteiro)  | Identificador único da organizadora da ONG            | 0001                                              |
-| Nome da Campanha    | Texto             | Nome de campanha                         | CampanhaLopes                                   |
-| Causa(s) apoiada(s)       | Texto             | Causa que a campanha apoia                      | Meio ambiente                          |
-| Vigência       | Seletor             | Seletor de vigencia                       | Continua                           | 
-| Itens a serem arrecadados       | Texto             | Itens a serem arrecadados                        | Items de limpeza                             |       |
 
