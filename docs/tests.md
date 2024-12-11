@@ -28,7 +28,6 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Caso de Teste** | **CT01 - Criar conta**
  :--------------: | ------------
 **Procedimento**  | 1) Usuário preenche os campos do formulário de cadastro ( e-mail, confirme e-mail,senha).<br>2) Clicar em "Cadastrar-se".<br>3) O sistema valida os dados e cria a conta do usuário.
-               
 **Requisitos associados** | RF-001
 **Resultado esperado** | Validação dos dados e criar a conta do usuário.
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
