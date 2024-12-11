@@ -37,11 +37,12 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 
 ## Descrição das estruturas:
 
-## LOGIN HOME HUB
-|  **Nome**      | **Tipo**          | **Descrição**                                    | **Exemplo**                                    |
-|:--------------:|-------------------|-------------------------------------------------   ------------------------------------------------|                                          |
-| Nome         | Texto             | Nome para acessar o portal e perfil da Homehub         | user                                |
-| Senha       | Texto             | Senha de acesso à conta da HomeHub                     | 123                            |
+## LOGIN ONGS
+|  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
+| Nome         | Texto             | Nome para acessar o portal e perfil da HomeHub                        | user                                  |
+| Senha       | Texto             | Senha de acesso à conta da HomeHub                     | 123                           |
+
 
 ## CADASTRO HOME HUB
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
