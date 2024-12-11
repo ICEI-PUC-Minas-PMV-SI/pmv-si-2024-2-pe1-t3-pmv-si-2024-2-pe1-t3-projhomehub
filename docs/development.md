@@ -31,9 +31,8 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 |RF-003| A aplicação deve incluir uma página inicial com conteúdo explicativo sobre o projeto, além de botões como 'Assine Agora', 'Acesse', 'Cadastre-se', entre outros. | ALTA | Sobre.html |
 |RF-004| A aplicação deve permitir ao usuário acompanhar o progresso das suas tarefas e permitir a visualização de suas tarefas favoritas. | ALTA | Main.html |
 |RF-005| A aplicação deve permitir ao usuário líder ou gestor delegar tarefas e funções a usuários individuais. | ALTA | Main.html |
-|RF-006| A aplicação deve permitir a criação de relatórios diversos relacionados aos projetos, como status do andamento, estatísticas de participação individual e de percentual de conclusão etc. | MÉDIA | login/index.html |
-|RF-007| A aplicação deve permitir a notificação diversas dos usuários, incluindo prazos, comentários de outros usuários colaboradores e feedbacks recebidos do usuário líder ou gestor. | MÉDIA | Main/html |
-|RF-008| A aplicação deve permitir ao usuário líder ou gestor o registro de feedbacks relacionados a tarefas e/ou usuários colaboradores individuais | ALTA | Main |
+|RF-006| A aplicação deve permitir a notificação diversas dos usuários, incluindo prazos, comentários de outros usuários colaboradores e feedbacks recebidos do usuário líder ou gestor. | MÉDIA | Main.html |
+|RF-007| A aplicação deve permitir ao usuário líder ou gestor o registro de feedbacks relacionados a tarefas e/ou usuários colaboradores individuais | ALTA | Main.html |
 
 
 ## Descrição das estruturas:
