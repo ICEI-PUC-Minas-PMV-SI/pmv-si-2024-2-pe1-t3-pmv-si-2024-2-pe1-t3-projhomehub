@@ -26,30 +26,29 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 ### Requisitos Funcionais
 |ID    | Descrição do Requisito | Prioridade | Artefato Criado |
 |------|------------------------|------------|-----------------|
-|RF-001| A aplicação deve permitir o usuário administrador criar, excluir, alterar e atribuir cargos a usuários. | ALTA | index.html |
-|RF-002| A aplicação deve permitir ao usuário gestor ou líder acompanhar o desenvolvimento das trarefas. | ALTA | login/index.html |
-|RF-003| A aplicação deve permitir que o gestor cadastre skills a serem desenvolvidas por membros individuais da equipe. | ALTA | Cadastro/FormUsuario.html |
-|RF-004| A aplicação deve permitir ao usuário líder ou gestor a criação, atualização e exclusão de projetos. | ALTA | wireframe7/index.html |
-|RF-005| A aplicação deve permitir ao usuário líder ou gestor delegar tarefas e funções a usuários individuais. | ALTA | wireframe8/index.html |
+|RF-001| A aplicação deve conter uma página de cadastro para que o usuário possa criar sua conta no sistema, utilizando e-mail e senha. | ALTA | Cadastro.html |
+|RF-002| A aplicação deve permitir ao usuário  acompanhar o desenvolvimento das trarefas. | ALTA | Main.html |
+|RF-003| A aplicação deve incluir uma página inicial com conteúdo explicativo sobre o projeto, além de botões como 'Assine Agora', 'Acesse', 'Cadastre-se', entre outros. | ALTA | Sobre.html |
+|RF-004| A aplicação deve permitir ao usuário acompanhar o progresso das suas tarefas e permitir a visualização de suas tarefas favoritas. | ALTA | Main.html |
+|RF-005| A aplicação deve permitir ao usuário líder ou gestor delegar tarefas e funções a usuários individuais. | ALTA | Main.html |
 |RF-006| A aplicação deve permitir a criação de relatórios diversos relacionados aos projetos, como status do andamento, estatísticas de participação individual e de percentual de conclusão etc. | MÉDIA | login/index.html |
-|RF-007| A aplicação deve permitir a notificação diversas dos usuários, incluindo prazos, comentários de outros usuários colaboradores e feedbacks recebidos do usuário líder ou gestor. | MÉDIA | CriaçãodeCampanhas/index.html |
-|RF-008| A aplicação deve permitir ao usuário líder ou gestor o registro de feedbacks relacionados a tarefas e/ou usuários colaboradores individuais | ALTA | CEP/cep.html |
+|RF-007| A aplicação deve permitir a notificação diversas dos usuários, incluindo prazos, comentários de outros usuários colaboradores e feedbacks recebidos do usuário líder ou gestor. | MÉDIA | Main/html |
+|RF-008| A aplicação deve permitir ao usuário líder ou gestor o registro de feedbacks relacionados a tarefas e/ou usuários colaboradores individuais | ALTA | Main |
 
 
 ## Descrição das estruturas:
 
 ## LOGIN HOME HUB
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
-|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Id             | Numero (Inteiro)  | Identificador único da organizadora da ONG            | 0001                                              |
-| Nome         | Texto             | Nome para acessar o portal e perfil da ONG                         | pessoasdobem                                   |
-| Senha       | Texto             | Senha de acesso à conta da ONG                      | 123Abc!@#                            |
+|:--------------:|-------------------|-------------------------------------------|------------------------------------------------|                                          |
+| Nome         | Texto             | Nome para acessar o portal e perfil da Homehub                         | user                                |
+| Senha       | Texto             | Senha de acesso à conta da HomeHub                     | 123                            |
 
 ## CADASTRO HOME HUB
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
 | Id             | Numero (Inteiro)  | Identificador único da organizadora da ONG            | 0001                                              |
-| Nome         | Texto             | Nome para acessar o portal e perfil da ONG                         | CampanhaLopes                                   |
+| Nome         | Texto             | Nome para acessar o portal e perfil da HomeHub                         | Empresa Silva                                   |
 | CNPJ       | Numero (Inteiro)             | Número de CNPJ da ONG                       | 65948129000167                            |
 | CEP       | Numero (Inteiro)             | Código de Endereçamento Postal (CEP)                       | 30285560                            |
 | Logradouro       | Texto             | Endereço de onde está localizado a ONG                       | Rua Sergipe                            |
