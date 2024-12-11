@@ -40,7 +40,7 @@ As tabelas que se seguem apresentam os requisitos funcionais e não-funcionais q
 ## LOGIN ONGS
 |  **Nome**      | **Tipo**          | **Descrição**                             | **Exemplo**                                    |
 |:--------------:|-------------------|-------------------------------------------|------------------------------------------------|
-| Nome         | Texto             | Nome para acessar o portal e perfil da HomeHub                        | user                                  |
+| E-mail         | Texto             | E-mail para acessar o portal e perfil da HomeHub                        | home.hub@gmail.com                                  |
 | Senha       | Texto             | Senha de acesso à conta da HomeHub                     | 123                           |
 
 
