@@ -44,7 +44,7 @@ Preencha a tabela com o plano dos testes. Para cada Caso de Teste (CT), associe 
 **Caso de Teste** | **CT03 - Página principal**
  :--------------: | ------------
 **Procedimento**  | 1) Usuário acessa a seção de login.<br>2) Adiciona o e-mail e senha.<br>3) Clica em " Entrar"<br>4) O sistema valida os dados e o usuário efetua o login na plataforma.<br>5) O sistema direciona para tela principal do sistema, apresentando tarefas, mensagens, notificações, favoritos e progresso das tarefas.
-**Requisitos associados** | RF-002,004,005,006,007
+**Requisitos associados** | RF-002,RF-004,RF-005,RF-006,RF-007
 **Resultado esperado** | Acesso a página principal.
 **Dados de entrada** | Inserção de dados válidos no formulário de cadastro.
 **Resultado obtido** | Sucesso
